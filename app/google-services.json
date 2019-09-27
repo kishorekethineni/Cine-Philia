@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579603411747",
+    "firebase_url": "https://cine-philia.firebaseio.com",
+    "project_id": "cine-philia",
+    "storage_bucket": "cine-philia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579603411747:android:dbf28e81ec33a706129296",
+        "android_client_info": {
+          "package_name": "com.example.cinephilia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579603411747-u69r7gvr1cpqhg9mef2ciu73sn84fqvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinephilia",
+            "certificate_hash": "f4cd31b8282af92e60fcb6ad97aff06c14558a82"
+          }
+        },
+        {
+          "client_id": "579603411747-h1hm26au1j8ajadke70vjgirp54hotep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUYnUVrWqPhbTBji52j8hZRuXg81U3Nzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579603411747-h1hm26au1j8ajadke70vjgirp54hotep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
